@@ -1,0 +1,10 @@
+    'names':['SOC', 'Sand', 'Clay', 'pH', 'CN', 'BD'],
+    'bounds':[[2.58, 6.20],
+	      [0.01, 0.30],
+	      [0.01, 0.30],
+              [4.6, 6.9],
+              [10.9, 12.4],
+              [900, 1350]]
+}
+
+param_values = saltelli.sample(problem, 1000, calc_second_order=True)
