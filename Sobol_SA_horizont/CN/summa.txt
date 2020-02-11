@@ -1,0 +1,600 @@
+monica_dirbatch100.npy
+    217     217    9114
+    217     434   11284
+    218     436    9592
+    218     436    9232
+    218     436    9592
+monica_dirbatch101.npy
+    219     219    9198
+    219     438   11388
+    220     440    9680
+    219     438    9230
+    219     438    9636
+monica_dirbatch102.npy
+    217     217    9114
+    217     434   11284
+    217     434    9548
+    217     434    9158
+    217     434    9548
+monica_dirbatch103.npy
+    216     216    9072
+    216     432   11232
+    216     432    9504
+    216     432    9108
+    216     432    9504
+monica_dirbatch104.npy
+    222     222    9324
+    222     444   11544
+    222     444    9768
+    222     444    9348
+    222     444    9768
+monica_dirbatch105.npy
+    221     221    9282
+    221     442   11492
+    221     442    9724
+    221     442    9310
+    221     442    9724
+monica_dirbatch106.npy
+    240     240   10080
+    240     480   12480
+    240     480   10560
+    240     480   10104
+    240     480   10560
+monica_dirbatch107.npy
+    215     215    9030
+    215     430   11180
+    216     432    9504
+    215     430    9070
+    215     430    9460
+monica_dirbatch108.npy
+    222     222    9324
+    222     444   11544
+    222     444    9768
+    222     444    9368
+    222     444    9768
+monica_dirbatch109.npy
+    221     221    9282
+    221     442   11492
+    222     444    9768
+    221     442    9330
+    221     442    9724
+monica_dirbatch110.npy
+    219     219    9198
+    219     438   11388
+    220     440    9680
+    219     438    9254
+    219     438    9636
+monica_dirbatch111.npy
+    220     220    9240
+    220     440   11440
+    220     440    9680
+    220     440    9292
+    220     440    9680
+monica_dirbatch112.npy
+    220     220    9240
+    220     440   11440
+    220     440    9680
+    220     440    9280
+    220     440    9680
+monica_dirbatch113.npy
+    224     224    9408
+    224     448   11648
+    224     448    9856
+    224     448    9472
+    224     448    9856
+monica_dirbatch114.npy
+    224     224    9408
+    225     450   11700
+    225     450    9900
+    225     450    9490
+    225     450    9900
+monica_dirbatch115.npy
+    223     223    9366
+    223     446   11596
+    223     446    9812
+    223     446    9402
+    223     446    9812
+monica_dirbatch116.npy
+    225     225    9450
+    225     450   11700
+    225     450    9900
+    225     450    9518
+    225     450    9900
+monica_dirbatch117.npy
+    225     225    9450
+    225     450   11700
+    226     452    9944
+    226     452    9532
+    226     452    9944
+monica_dirbatch118.npy
+    226     226    9492
+    226     452   11752
+    226     452    9944
+    226     452    9512
+    226     452    9944
+monica_dirbatch119.npy
+    225     225    9450
+    225     450   11700
+    225     450    9900
+    225     450    9496
+    225     450    9900
+monica_dirbatch120.npy
+    225     225    9450
+    225     450   11700
+    225     450    9900
+    225     450    9506
+    225     450    9900
+monica_dirbatch121.npy
+    225     225    9450
+    225     450   11700
+    225     450    9900
+    225     450    9494
+    225     450    9900
+monica_dirbatch122.npy
+    227     227    9534
+    227     454   11804
+    227     454    9988
+    227     454    9574
+    227     454    9988
+monica_dirbatch123.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch124.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch125.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch126.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch127.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch128.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch129.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch130.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch131.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch132.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch133.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch134.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch135.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch136.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch137.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch138.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch139.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch140.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch141.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch142.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch143.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch144.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch145.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch146.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch147.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch148.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch149.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch150.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch151.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch152.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch153.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch154.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch155.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch156.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch157.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch158.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch159.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch160.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch161.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch162.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch163.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch164.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch165.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch166.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch167.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch168.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch169.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch170.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch171.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch172.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch173.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch174.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch175.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch176.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch177.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch178.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch179.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch180.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch181.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch182.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch183.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch184.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch185.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch186.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch187.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch188.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch189.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch190.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch191.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch192.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch193.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch194.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch195.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch196.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch197.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch198.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+monica_dirbatch199.npy
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0
+      0       0       0

@@ -1,0 +1,26 @@
+6 parameters - 0-30 cm layer of soil
+
+
+N_10000
+
+On a [0, 1] scale 1D coverage is: 0.8587333333333333
+L2-star discrepancy is: 1.0165399228368593e-07
+The minimal distance between two points is: 0.08238796603279805
+
+N_1000:
+
+On a [0, 1] scale 1D coverage is: 0.9791666666666666
+L2-star discrepancy is: 2.511897739228622e-06
+The minimal distance between two points is: 0.1187638124162761
+
+N_100:
+
+On a [0, 1] scale 1D coverage is: 0.8333333333333334
+L2-star discrepancy is: 0.00011836393754770897
+The minimal distance between two points is: 0.275106513463422
+
+N_10:
+
+On a [0, 1] scale 1D coverage is: 0.7666666666666666
+L2-star discrepancy is: 0.010611988850505231
+The minimal distance between two points is: 0.4677071733467427

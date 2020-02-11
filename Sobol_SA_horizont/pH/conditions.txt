@@ -1,0 +1,15 @@
+
+    file_name = str(pH10_value)+'_'+str(pH20_value)+'_'+str(pH30_value)+'_'+str(pH40_value)+str(pH50_value)\
+    +'_'+str(pH60_value)+'_'+str(pH70_value)+'_'+str(pH80_value)+'_'+str(pH90_value)
+    site_file_name='site'+'_'+file_name+'.json'
+
+    with open(site_file_name, 'w', encoding='utf-8') as sitef:
+        json.dump(site_data_copy, sitef, ensure_ascii=False, indent=4, cls=NpEncoder)
+
+    sim_data_copy=sim_data.copy()
+    sim_data_copy['site.json']=site_file_name
+    sim_data_copy['output']['file-name']='out'+'_'+file_name+'.csv'
+    sim_file_name='sim'+'_'+file_name+'.json'
+
+    with open(sim_file_name, 'w', encoding='utf-8') as simf:
+        json.dump(sim_data_copy, simf, ensure_ascii=False, indent=4, cls=NpEncoder)
