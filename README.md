@@ -7,9 +7,9 @@ How to start (example with one core):
 or use Docker (docker pull mishagasanov/monica-beta)  
 2)clone directory  
 
-git clone https://github.com/mishagrol/SA_agro_model.git
-cd SA_agro_model/Sobol_SA_topsoil/N_100
-sh monica.sh
+`git clone https://github.com/mishagrol/SA_agro_model.git`  
+`cd SA_agro_model/Sobol_SA_topsoil/N_100`  
+`sh monica.sh`  
 
 The scheme of acceleration of model calculation . 
 ![Scheme_of_crop_rotation](https://github.com/mishagrol/SA_agro_model/blob/master/HPC_crop_rotation.png)
