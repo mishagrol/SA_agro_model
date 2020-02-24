@@ -27,4 +27,4 @@ or use Docker (docker pull mishagasanov/monica-beta)
 `sh monica.sh`  
 
 The scheme of acceleration of model calculation . 
-![Scheme_of_crop_rotation](https://github.com/mishagrol/SA_agro_model/blob/master/HPC_crop_rotation.png)
+![Scheme_of_HPC](https://github.com/mishagrol/SA_agro_model/blob/master/HPC_crop_rotation.png)
