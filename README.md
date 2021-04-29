@@ -7,7 +7,7 @@ Table of soil parameters for SA
 
 | Parameter        | Description           | Unit      |Minimum     | Maximum     |
 |:-------------:|:-------------:| :-------------:|:-------------:|:-------------:|
-| SOC | Soil organic carbon | `%`| $2.58 | $6.20 |
+| SOC | Soil organic carbon | `%`| **2.58** | **6.20** |
 | Sand | Soil sand content | `kg*kg^-1`| **0.01** | **0.30** |
 | Clay | Soil clay fraction | `kg*kg^-1`| **0.01** | **0.30** |
 | pH | Soil pH value  | - | **4.6** | **6.9** |
@@ -19,11 +19,17 @@ How to start (example with one core):
 or use Docker (docker pull mishagasanov/monica-beta)  
 
 2) Install SAlib for sensitivity analysis [SALib](http://SALib.github.io/SALib/)
-  
-3) Clone directory and run shell script  
+
+3) Add `PATH` to monica-parameters to your path
+
+`export PATH=/path/to/zalf-rpm/monica-parameters/:$PWD`
+
+4) Clone directory and 
 
 `git clone https://github.com/mishagrol/SA_agro_model.git`  
 `cd SA_agro_model/Sobol_SA_topsoil/N_100`  
+
+5) Run shell script    
 `sh monica.sh`  
 
 The scheme of acceleration of model calculation . 
